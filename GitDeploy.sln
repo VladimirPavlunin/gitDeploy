@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitDeploy", "GitDeploy\GitD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebJob1", "WebJob1\WebJob1.csproj", "{BA4102D9-4562-417A-AECE-5D6B53E637C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scheduler", "Scheduler\Scheduler.csproj", "{EC6C12FC-B6BA-4CC3-9928-CFA9A21B8890}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BA4102D9-4562-417A-AECE-5D6B53E637C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA4102D9-4562-417A-AECE-5D6B53E637C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA4102D9-4562-417A-AECE-5D6B53E637C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC6C12FC-B6BA-4CC3-9928-CFA9A21B8890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6C12FC-B6BA-4CC3-9928-CFA9A21B8890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC6C12FC-B6BA-4CC3-9928-CFA9A21B8890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC6C12FC-B6BA-4CC3-9928-CFA9A21B8890}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
